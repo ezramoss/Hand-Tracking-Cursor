@@ -3,10 +3,8 @@ A simple python program that will allow you to control your mouse cursor with yo
 
 How to use:
 
-Flatten your hand, leaving gaps between your fingers, and postion it within the box on screen. This cursor will only move if your hand is within
-the box. In order to left click, close the gap between your index and middle finger. In order right click, 
-touch your index finger to your thumb. Results are hightly dependent on the quality of your webcam and the 
-lighting.
+Flatten your hand, leaving gaps between your fingers, and position it within the box on screen. This cursor will only move if your hand is within
+the box. To left-click, close the gap between your index and middle finger. To right-click, touch your index finger to your thumb. Results are highly dependent on the quality of your webcam and the lighting.
 
 Created with the following:
 
@@ -27,5 +25,5 @@ License: https://github.com/google/mediapipe/blob/master/LICENSE
 
 Usage: 
 
-This program is not intented for any commercial or business use. This is a proof of concept project. 
+This program is not intended for any commercial or business use. This is a proof of concept project. 
 
