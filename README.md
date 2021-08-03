@@ -19,7 +19,6 @@ License: https://github.com/asweigart/pyautogui/blob/master/LICENSE.txt
 License: https://github.com/opencv/opencv-python/blob/master/LICENSE.txt
 License-3D-Party: https://github.com/opencv/opencv-python/blob/master/LICENSE-3RD-PARTY.txt
 
-
 #mediapipe Version 0.8.6 https://github.com/google/mediapipe
 License: https://github.com/google/mediapipe/blob/master/LICENSE
 
